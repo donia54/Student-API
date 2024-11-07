@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AB\\source\\repos\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97645101-885B-4CFA-BFCC-F8E3AC23437D}|StudentApiDataAccesseLayer\\StudentApiDataAccesseLayer.csproj|c:\\users\\ab\\source\\repos\\studentapi\\studentapidataaccesselayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97645101-885B-4CFA-BFCC-F8E3AC23437D}|StudentApiDataAccesseLayer\\StudentApiDataAccesseLayer.csproj|solutionrelative:studentapidataaccesselayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EF4FC-5639-45E2-8D78-5CE7509431BA}|StudentAPI\\StudentAPI.csproj|c:\\users\\ab\\source\\repos\\studentapi\\studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EF4FC-5639-45E2-8D78-5CE7509431BA}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D0DE37-C31B-4620-8932-AC7259E4CE26}|StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj|c:\\users\\ab\\source\\repos\\studentapi\\studentapibusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D0DE37-C31B-4620-8932-AC7259E4CE26}|StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj|solutionrelative:studentapibusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 975,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\AB\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwG4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:03:38.023Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\source\\repos\\StudentAPI\\StudentApiBusinessLayer\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApiBusinessLayer\\Student.cs",
+              "ToolTip": "C:\\Users\\AB\\source\\repos\\StudentAPI\\StudentApiBusinessLayer\\Student.cs",
+              "RelativeToolTip": "StudentApiBusinessLayer\\Student.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:00:46.094Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "C:\\Users\\AB\\source\\repos\\StudentAPI\\StudentApiDataAccesseLayer\\StudentData.cs",
+              "RelativeDocumentMoniker": "StudentApiDataAccesseLayer\\StudentData.cs",
+              "ToolTip": "C:\\Users\\AB\\source\\repos\\StudentAPI\\StudentApiDataAccesseLayer\\StudentData.cs",
+              "RelativeToolTip": "StudentApiDataAccesseLayer\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:31:40.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

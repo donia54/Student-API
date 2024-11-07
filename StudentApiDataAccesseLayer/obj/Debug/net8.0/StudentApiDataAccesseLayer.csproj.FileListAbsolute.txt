@@ -1,0 +1,13 @@
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\bin\Debug\net8.0\StudentApiDataAccesseLayer.deps.json
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\bin\Debug\net8.0\StudentApiDataAccesseLayer.dll
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\bin\Debug\net8.0\StudentApiDataAccesseLayer.pdb
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.csproj.AssemblyReference.cache
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.AssemblyInfoInputs.cache
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.AssemblyInfo.cs
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.sourcelink.json
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.dll
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\refint\StudentApiDataAccesseLayer.dll
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\StudentApiDataAccesseLayer.pdb
+C:\Users\AB\source\repos\StudentAPI\StudentApiDataAccesseLayer\obj\Debug\net8.0\ref\StudentApiDataAccesseLayer.dll
